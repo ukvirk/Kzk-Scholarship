@@ -1,0 +1,6 @@
+{
+  "name": "Kazakhstan Government Scholarship",
+  "description": "The official premium portal of the Government Scholarship of the Republic of Kazakhstan for exceptional international students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
