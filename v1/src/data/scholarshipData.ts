@@ -408,7 +408,7 @@ export const translations: Record<Language, TranslationSet> = {
           location: "Astana (EXPO District)",
           ranking: "Top Tech University",
           founded: "2019",
-          image: "https://i.postimg.cc/dk6w5Zc4/2Q.webp",
+          image: "https://i.postimg.cc/50SkZS1g/2.png",
           programsCount: 18,
           featuredPrograms: ["Software Engineering", "Cybersecurity", "Data Science", "Digital Logistics", "FinTech"],
           description: "The digital powerhouse of Kazakhstan, situated in the futuristic EXPO complex. Designed to train elite architects of the global IT economy, offering close industrial ties with tech giants."
