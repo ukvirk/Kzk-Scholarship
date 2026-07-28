@@ -421,7 +421,7 @@ export const translations: Record<Language, TranslationSet> = {
           location: "Almaty (Financial District)",
           ranking: "Best Business School",
           founded: "1992",
-          image: "https://i.postimg.cc/S2dkgYbr/Z-(1).webp",
+          image: "https://i.postimg.cc/wy3VNJ1y/1.png",
           programsCount: 22,
           featuredPrograms: ["MBA", "Executive Finance", "Business Administration", "Global Economics", "International Law"],
           description: "The premier Western-style university in Central Asia. All programs are taught strictly in English under North American academic standards, boasting unmatched alumni employment rates in global advisory firms."
