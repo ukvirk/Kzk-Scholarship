@@ -233,7 +233,7 @@ export const translations: Record<Language, TranslationSet> = {
       countriesSub: "Global Student Origins",
       applications: "42,000+",
       applicationsSub: "Processed Applications",
-      universities: "24",
+      universities: "36",
       universitiesSub: "Elite Host Institutions",
       successRate: "2.4%",
       successRateSub: "Acceptance Prestige Rate"
